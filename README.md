@@ -1,0 +1,4 @@
+- [ ] Create Stackoverflow Account.
+- [ ] Create Github Account.
+- [ ] Starting C++ programming language.
+- [ ] Discover about all things learned.
